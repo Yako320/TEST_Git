@@ -6,4 +6,5 @@ void main() {
 	std::cin >> nombre;
 
 	std::cout << "Bienvenido " << nombre;
+
 }
